@@ -1,6 +1,6 @@
 ! Title: uBlock Origin 1.13.10 Filter List for the Leistungsschutzrecht für
 !        Presseverleger berechtigten vertreten durch die VG Media.  
-! Download: https://github.com/jspenguin2017/uBlockProtector/raw/master/uBlockProtectorList.txt
+! Download: https://raw.githubusercontent.com/voidnill/lsr.txt/master/lsr.txt
 ! License: GPL-3.0 !
 
 www.104.6rtl.com
