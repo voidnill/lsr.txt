@@ -1,5 +1,4 @@
-! Title: uBlock Origin 1.13.10 Filter List for the Leistungsschutzrecht für
-!        Presseverleger berechtigten vertreten durch die VG Media.  
+! Title: Leistungsschutzrecht Filter List // VG Media  
 ! Download: https://raw.githubusercontent.com/voidnill/lsr.txt/master/lsr.txt
 ! License: GPL-3.0 !
 
