@@ -1,4 +1,4 @@
-! Title: Leistungsschutzrecht Filter List // VG Media  
+! Title: hackerbit - Leistungsschutzrecht Filter List 
 ! Download: https://raw.githubusercontent.com/voidnill/lsr.txt/master/lsr.txt
 ! License: GPL-3.0 !
 
